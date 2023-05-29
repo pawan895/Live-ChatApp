@@ -23,9 +23,9 @@ This is a live chat application built using React, Express, Node.js, and the Cha
 1. Clone the repository:
 2. Install the dependencies for the frontend and backend
 3. Configuration:
-  - Set up your ChatEngine account and obtain the necessary credentials.
-  - Configure the backend server to connect to your ChatEngine account.
-  - set up the env files in both frontend and backend
+- Set up your ChatEngine account and obtain the necessary credentials.
+- Configure the backend server to connect to your ChatEngine account.
+- set up the env files in both frontend and backend
 
 ## Screenshots
 welcome screen
